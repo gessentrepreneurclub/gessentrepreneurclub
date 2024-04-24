@@ -1,6 +1,5 @@
-### Hi there 👋
-# Here's what you need to know about me.
-- 🔭 I’m currently working on a website for my school CCA.
-- 📫 How to reach me: Message me on discord. My profile name is Tritonloh
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm not fun. I spend my days learning and studying.
+### Hey all!👋
+# About us:
+- We are a Co-curricular organisation called the entrepreneurship club.
+- We garden, farm and learn about business.
+- You can buy our products in our club store at Gan Eng Seng School.
