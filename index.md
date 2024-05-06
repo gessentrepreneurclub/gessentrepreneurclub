@@ -1,7 +1,3 @@
----
-layout: home
----
-
 <h1>Hey All!</h1>
 # About us:
 - We are a Co-curricular organisation called the entrepreneurship club.
